@@ -1,4 +1,5 @@
-### Hi there 👋
+<h5>Hi there 👋</h5>
+<p>I'm a Software Engineer by profession, a Geek at heart. I love exploring new technologies and working on algorithmic problems. As of now, I write code for bread, butter and satisfaction. I like to develop applications, and generally that involves much more than writing code. It’s not just about slinging code, but producing something meaningful that has a measurable and positive impact, helps others and solves interesting problems.</p>
 
 <!--
 **pranavaa/pranavaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
